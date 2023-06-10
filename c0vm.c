@@ -1,7 +1,3 @@
-/**************************************************************************/
-/*              COPYRIGHT Carnegie Mellon University 2022                 */
-/* Do not post this file or any derivative on a public site or repository */
-/**************************************************************************/
 #include <assert.h>
 #include <stdio.h>
 #include <limits.h>
